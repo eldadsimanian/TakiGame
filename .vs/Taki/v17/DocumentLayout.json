@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|d:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\taki\\taki\\putname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\putname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\game.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\game.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\recordtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\recordtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\recordtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\recordtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\cardbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\cardbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\showcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\showcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\yad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\yad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\taki\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D97D1E-D92D-41DA-AB33-B7821CFED367}|Taki\\Taki.csproj|solutionrelative:taki\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.Designer.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Game.Designer.cs",
+              "RelativeDocumentMoniker": "Taki\\Game.Designer.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Game.Designer.cs",
+              "RelativeToolTip": "Taki\\Game.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:27:25.73Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecordTable.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\RecordTable.cs",
+              "RelativeDocumentMoniker": "Taki\\RecordTable.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\RecordTable.cs",
+              "RelativeToolTip": "Taki\\RecordTable.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:20:21.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Form1.cs",
+              "RelativeDocumentMoniker": "Taki\\Form1.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Form1.cs",
+              "RelativeToolTip": "Taki\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:17:04.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Game.cs",
+              "RelativeDocumentMoniker": "Taki\\Game.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Game.cs [Design]",
+              "RelativeToolTip": "Taki\\Game.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:16:50.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CardBox.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\CardBox.cs",
+              "RelativeDocumentMoniker": "Taki\\CardBox.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\CardBox.cs",
+              "RelativeToolTip": "Taki\\CardBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:38:00.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PutName.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\PutName.cs",
+              "RelativeDocumentMoniker": "Taki\\PutName.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\PutName.cs [Design]",
+              "RelativeToolTip": "Taki\\PutName.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:38:04.683Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Game.cs",
+              "RelativeDocumentMoniker": "Taki\\Game.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Game.cs",
+              "RelativeToolTip": "Taki\\Game.cs",
+              "ViewState": "AgIAANoEAAAAAAAAAAAwwN8EAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:28:01.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Yad.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Yad.cs",
+              "RelativeDocumentMoniker": "Taki\\Yad.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Yad.cs",
+              "RelativeToolTip": "Taki\\Yad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:37:55.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Program.cs",
+              "RelativeDocumentMoniker": "Taki\\Program.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Program.cs",
+              "RelativeToolTip": "Taki\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:37:43.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Form1.cs",
+              "RelativeDocumentMoniker": "Taki\\Form1.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Form1.cs [Design]",
+              "RelativeToolTip": "Taki\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:37:53.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecordTable.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\RecordTable.cs",
+              "RelativeDocumentMoniker": "Taki\\RecordTable.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\RecordTable.cs [Design]",
+              "RelativeToolTip": "Taki\\RecordTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:38:04.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Taki\\Form1.Designer.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Form1.Designer.cs",
+              "RelativeToolTip": "Taki\\Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:17:00.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShowCards.cs [Design]",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\ShowCards.cs",
+              "RelativeDocumentMoniker": "Taki\\ShowCards.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\ShowCards.cs [Design]",
+              "RelativeToolTip": "Taki\\ShowCards.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:38:03.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Deck.cs",
+              "RelativeDocumentMoniker": "Taki\\Deck.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Deck.cs",
+              "RelativeToolTip": "Taki\\Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:37:46.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Card.cs",
+              "RelativeDocumentMoniker": "Taki\\Card.cs",
+              "ToolTip": "D:\\\u05E2\u05D3 \u05E0\u05D5\u05D1\u05DE\u05D1\u05E8 24\\Taki\\Taki\\Card.cs",
+              "RelativeToolTip": "Taki\\Card.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:37:40.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

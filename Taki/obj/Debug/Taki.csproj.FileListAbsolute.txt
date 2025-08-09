@@ -1,0 +1,80 @@
+C:\Users\User\Downloads\Taki\Taki\bin\Debug\Taki.exe.config
+C:\Users\User\Downloads\Taki\Taki\bin\Debug\Taki.exe
+C:\Users\User\Downloads\Taki\Taki\bin\Debug\Taki.pdb
+C:\Users\User\Downloads\Taki\Taki\obj\Debug\Taki.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Taki\Taki\obj\Debug\Taki.Form1.resources
+C:\Users\User\Downloads\Taki\Taki\obj\Debug\Taki.Game.resources
+C:\Users\User\Downloads\Taki\Taki\obj\Debug\Taki.Instructions.resources
+C:\Users\User\Downloads\Taki\Taki\obj\Debug\Taki.Properties.Resources.resources
+C:\Users\User\Downloads\Taki\Taki\obj\Debug\Taki.ShowCards.resources
+C:\Users\User\Downloads\Taki\Taki\obj\Debug\Taki.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Taki\Taki\obj\Debug\Taki.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Taki\Taki\obj\Debug\Taki.csproj.CopyComplete
+C:\Users\User\Downloads\Taki\Taki\obj\Debug\Taki.exe
+C:\Users\User\Downloads\Taki\Taki\obj\Debug\Taki.pdb
+C:\Users\eldad\Desktop\Taki\Taki\bin\Debug\Db1.mdb
+C:\Users\eldad\Desktop\Taki\Taki\bin\Debug\Taki.exe.config
+C:\Users\eldad\Desktop\Taki\Taki\bin\Debug\Taki.exe
+C:\Users\eldad\Desktop\Taki\Taki\bin\Debug\Taki.pdb
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.AboutCards1.resources
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.AboutCards2.resources
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.AboutCards3.resources
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.AboutCards4.resources
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.AboutCards5.resources
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.Form1.resources
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.Game.resources
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.Instructions.resources
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.Properties.Resources.resources
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.PutName.resources
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.RecordTable.resources
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.ShowCards.resources
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.csproj.GenerateResource.cache
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.csproj.CoreCompileInputs.cache
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.csproj.CopyComplete
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.exe
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.pdb
+C:\Users\eldad\Desktop\Taki\Taki\obj\Debug\Taki.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Taki\Taki\bin\Debug\Db1.mdb
+C:\Users\user\Desktop\Taki\Taki\bin\Debug\Taki.exe.config
+C:\Users\user\Desktop\Taki\Taki\bin\Debug\Taki.exe
+C:\Users\user\Desktop\Taki\Taki\bin\Debug\Taki.pdb
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.AboutCards1.resources
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.AboutCards2.resources
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.AboutCards3.resources
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.AboutCards4.resources
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.AboutCards5.resources
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.Form1.resources
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.Game.resources
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.Instructions.resources
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.Properties.Resources.resources
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.PutName.resources
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.RecordTable.resources
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.ShowCards.resources
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.csproj.CopyComplete
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.exe
+C:\Users\user\Desktop\Taki\Taki\obj\Debug\Taki.pdb
+D:\עד נובמבר 24\Taki\Taki\bin\Debug\Db1.mdb
+D:\עד נובמבר 24\Taki\Taki\bin\Debug\Taki.exe.config
+D:\עד נובמבר 24\Taki\Taki\bin\Debug\Taki.exe
+D:\עד נובמבר 24\Taki\Taki\bin\Debug\Taki.pdb
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.csproj.AssemblyReference.cache
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.AboutCards1.resources
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.AboutCards2.resources
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.AboutCards3.resources
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.AboutCards4.resources
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.AboutCards5.resources
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.Form1.resources
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.Game.resources
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.Instructions.resources
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.Properties.Resources.resources
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.PutName.resources
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.RecordTable.resources
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.ShowCards.resources
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.csproj.GenerateResource.cache
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.csproj.CoreCompileInputs.cache
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.csproj.Up2Date
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.exe
+D:\עד נובמבר 24\Taki\Taki\obj\Debug\Taki.pdb
